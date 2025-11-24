@@ -4,6 +4,7 @@ public class Car {
     String color;
     String make;
     String model;
+    String ac;
 
     public Car(String color, String make, String model) {
         this.color = color;
