@@ -4,6 +4,7 @@ public class Jeep {
     String color;
     String make;
     String model;
+    String wheelType
     public Jeep(String color, String make, String model) {
         this.color = color;
         this.make = make;
