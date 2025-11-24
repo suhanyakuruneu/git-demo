@@ -9,4 +9,7 @@ public class Jeep {
         this.make = make;
         this.model = model;
     }
+    void  setColor(String color) {
+        this.color = color;
+    }
 }
